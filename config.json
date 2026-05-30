@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configverify",
+        "uuid": 508012,
+        "checksum": "0somui"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
